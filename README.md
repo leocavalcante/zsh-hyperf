@@ -71,7 +71,7 @@ the changes.
 ## Usage
 
 Simply use the command `hyperf` from anywhere within the directory structure of
-a Laravel project and it will search up the tree for the `bin/hyperf.php` command and
+a Hyperf project and it will search up the tree for the `bin/hyperf.php` command and
 execute it. E.g:
 
 ```zshrc
